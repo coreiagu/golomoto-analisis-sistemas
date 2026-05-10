@@ -68,10 +68,9 @@ Sistema integral que unifica compras, ventas, stock, clientes y reportes — con
 ## 📸 Mockups del sistema
 
 ### Panel de empleados
-![Panel empleados](mockup-empleados.png)
-
-### Tienda web para clientes
 ![Tienda clientes](mockup-clientes.png)
+### Tienda web para clientes
+![Panel empleados](mockup-empleados.png)
 
 ---
 
