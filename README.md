@@ -4,7 +4,7 @@ Proyecto de análisis y diseño de software desarrollado para **Golomoto**, un e
 
 Trabajo final de **Análisis de Sistemas I (2023) y Análisis de Sistemas II (2025)** — Tecnicatura Superior en Computación, Universidad Nacional del Sur (UNS).
 
-> 👥 Autores: Agustina Corei · Giacomo Monticone
+> 👥 Autores: Agustina Corei · Giaco Monticone
 
 ---
 
@@ -24,8 +24,8 @@ Sistema integral que unifica compras, ventas, stock, clientes y reportes — con
 
 | Archivo | Descripción |
 |---------|-------------|
-| `Analisis_Sistemas_I_Golomoto.pdf` | Análisis completo del sistema — Cursada 2023 |
-| `Analisis_Sistemas_II_Golomoto.pdf` | Diseño completo del sistema — Cursada 2025 |
+| `Examen final - Analisis II - Monticone y Corei.pdf` | Análisis completo del sistema — Cursada 2023 |
+| `Sistema para_Golomoto_-Moticone, Corei.pdf` | Diseño completo del sistema — Cursada 2025 |
 
 ---
 
@@ -79,7 +79,7 @@ Sistema integral que unifica compras, ventas, stock, clientes y reportes — con
 **Agustina Corei**
 [github.com/coreiagu](https://github.com/coreiagu) · [linkedin.com/in/agustinacorei](https://linkedin.com/in/agustinacorei)
 
-**Giacomo Monticone**
+**Giaco Monticone**
 [github.com/monticonegiaco](https://github.com/monticonegiaco)
 
 ---
